@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Wang Lab - Gut Microbiota and Helminth Research</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <style>
+        /* Custom styles for the scientific/academic aesthetic */
+        :root {
+            --primary-color: #1e40af; /* Tailwind blue-800 */
+            --secondary-color: #3b82f6; /* Tailwind blue-500 */
+            --bg-light: #f9fafb; /* Tailwind gray-50 */
+            --text-dark: #1f2937; /* Tailwind gray-800 */
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            color: var(--text-dark);
+            background-color: white;
+            scroll-behavior: smooth;
+        }
+        .section-header {
+            font-size: 2.25rem; /* 3xl */
+            font-weight: 800; /* Extra bold */
+            color: var(--primary-color);
+            margin-bottom: 2.5rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="sticky top-0 z-50 bg-white shadow-lg">
+        <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+            <a href="#" class="text-2xl font-extrabold text-gray-900 flex items-center">
+                <svg class="w-8 h-8 mr-2 text-blue-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"></path></svg>
+                <span class="text-blue-700">Wang</span> Lab
+            </a>
+            <div class="hidden md:flex space-x-8 font-medium">
+                <a href="#research" class="text-gray-600 hover:text-blue-700 transition duration-150">Research</a>
+                <a href="#team" class="text-gray-600 hover:text-blue-700 transition duration-150">Team</a>
+                <a href="#publications" class="text-gray-600 hover:text-blue-700 transition duration-150">Publications</a>
+                <a href="#news" class="text-gray-600 hover:text-blue-700 transition duration-150">News</a>
+                <a href="#contact" class="text-gray-600 hover:text-blue-700 transition duration-150">Contact</a>
+            </div>
+            <button id="mobile-menu-button" class="md:hidden p-2 rounded-md text-gray-700 hover:bg-gray-100 transition duration-150">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+            </button>
+        </nav>
+
+        <div id="mobile-menu" class="hidden md:hidden bg-gray-50 border-t border-gray-200">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+                <a href="#research" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-200">Research</a>
+                <a href="#team" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-200">Team</a>
+                <a href="#publications" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-200">Publications</a>
+                <a href="#news" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-200">News</a>
+                <a href="#contact" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-200">Contact</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="bg-blue-900 text-white pt-20 pb-28 sm:py-32">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                <h1 class="text-5xl sm:text-6xl font-extrabold tracking-tight mb-6">
+                    Unraveling the Interactions between <span class="text-yellow-300">Gut Microbiota, Helminth & Host Immunity</span>
+                </h1>
+                <p class="text-xl sm:text-2xl text-blue-200 max-w-3xl mx-auto mb-10">
+                    The Wang Lab investigates the complex regulatory roles of gut microbes and helminths on host immune responses to develop new strategies against infectious (e.g., echinococcosis) and inflammatory diseases (e.g., IBD) .
+                </p>
+                <div class="flex justify-center space-x-4">
+                    <a href="#research" class="bg-yellow-400 text-blue-900 font-bold py-3 px-8 rounded-full shadow-lg hover:bg-yellow-300 transition duration-300 transform hover:scale-105">
+                        Explore Our Research
+                    </a>
+                    <a href="#publications" class="bg-transparent border-2 border-white text-white font-bold py-3 px-8 rounded-full hover:bg-white hover:text-blue-900 transition duration-300 transform hover:scale-105">
+                        Latest Publications
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="research" class="py-20 sm:py-28 bg-gray-50">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="section-header">Research Thrusts</h2>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+
+                    <div class="bg-white p-6 rounded-xl shadow-xl hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 border-t-4 border-blue-700">
+                        <div class="flex items-center space-x-4 mb-4">
+                            <svg class="w-10 h-10 text-blue-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L19.5 7.25m-15.75 5L15 2.5m-3.75 2.25L5.25 10"></path></svg>
+                            <h3 class="text-xl font-bold text-gray-900">Crosstalk between Parasitic Worms and the Gut Microbiota</h3>
+                        </div>
+                        <p class="text-gray-600">Investigating how helminths interact with the existing gut microbial community and how these complex dynamics influence host immune responses or inflammatory disease progression. Different to the frequently used nematode model, our lab develops a new model of larval cestode, which could provide new insights. See more about this model system in our paper in **Gut microbes, 2025**</p>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xl hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 border-t-4 border-green-600">
+                        <div class="flex items-center space-x-4 mb-4">
+                            <svg class="w-10 h-10 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h5M20 20v-5h-5m-1 1v-5h-5m1 1v-5h-5m1 1v-5h-5"></path></svg>
+                            <h3 class="text-xl font-bold text-gray-900">Regulation of Gut Symbionts on Host Immunity</h3>
+                        </div>
+                        <p class="text-gray-600">Focusing on the mechanisms by which symbionts (gut microbes and helminths) regulate and fine-tune systemic and mucosal host immune responses to maintain health and prevent chronic inflammatory disorders (e.g., IBD and Inflammageing). We have established several cohorts for these researches including prospective and longitudinal cohorts for long-lived populations, who rarely suffer inflammatory diseases.</p>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xl hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 border-t-4 border-red-600">
+                        <div class="flex items-center space-x-4 mb-4">
+                            <svg class="w-10 h-10 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c1.657 0 3 1.343 3 3v3a5 5 0 002.5-4.5V11a7 7 0 00-14 0v.5A5 5 0 009 14v-3c0-1.657 1.343-3 3-3z"></path></svg>
+                            <h3 class="text-xl font-bold text-gray-900">New Therapies for Infections and Inflammatory Diseases</h3>
+                        </div>
+                        <p class="text-gray-600">Developing novel therapeutic strategies based on modulating the gut symboint (microbes/helminthes) axis to treat severe helminth infections and inflammatory diseases such as IBD. Our Onging projects include studies and clinical trials of gut microbiota intervention and gut-derived metabolites on treating IBD in dogs and monkeys.</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="team" class="py-20 sm:py-28">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="section-header">Meet The Team</h2>
+
+                <div class="flex flex-col md:flex-row items-center bg-white p-8 rounded-xl shadow-xl mb-12 border-l-4 border-indigo-600">
+                    <img class="w-32 h-32 rounded-full object-cover mr-6 mb-4 md:mb-0" src="https://placehold.co/128x128/3b82f6/ffffff?text=Dr.+S.W." alt="Placeholder image of Principal Investigator">
+                    <div>
+                        <h3 class="text-2xl font-bold text-gray-900">Dr. Shuai Wang (Principal Investigator)</h3>
+                        <p class="text-indigo-600 mb-3">School of Veterinary Medicine, Lanzhou University & Lanzhou Veterinary Research Institute, CAAS, China</p>
+                        <p class="text-gray-600">Dr. Wang's research focuses on the regulations of the gut microbiota and helminths on the host immune responses, aiming to develop new strategies for treating severe helminth infections and inflammatory diseases like IBD.</p>
+                        <a href="#" class="text-sm font-semibold text-blue-700 hover:underline mt-2 inline-block">View Full Profile →</a>
+                    </div>
+                </div>
+
+                <h3 class="text-2xl font-bold text-center mb-8 text-gray-900">Researchers & Students</h3>
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+                    <div class="text-center bg-gray-50 p-4 rounded-lg shadow-md">
+                        <img class="w-24 h-24 rounded-full object-cover mx-auto mb-3" src="Team/zouyang.jpg">
+                        <h4 class="text-lg font-semibold text-gray-900">Yang Zou</h4>
+                        <p class="text-blue-600 text-sm">Postdoctoral Fellow</p>
+                        <p class="text-xs text-gray-500 mt-1">Gut Microbiome-helminth interactions</p>
+                    </div>
+
+                    <div class="text-center bg-gray-50 p-4 rounded-lg shadow-md">
+                        <img class="w-24 h-24 rounded-full object-cover mx-auto mb-3" src="Team/yugui.jpg">
+                        <h4 class="text-lg font-semibold text-gray-900">Yugui Wang</h4>
+                        <p class="text-blue-600 text-sm">Postdoctoral Fellow</p>
+                        <p class="text-xs text-gray-500 mt-1">Helminth Immunity</p>
+                    </div>
+
+                    <div class="text-center bg-gray-50 p-4 rounded-lg shadow-md">
+                        <img class="w-24 h-24 rounded-full object-cover mx-auto mb-3" src="Team/x.jpg">
+                        <h4 class="text-lg font-semibold text-gray-900">Yingying Ding</h4>
+                        <p class="text-blue-600 text-sm">PhD candidate</p>
+                        <p class="text-xs text-gray-500 mt-1">IBD Therapeutic Trials in dogs</p>
+                    </div>
+
+                    <div class="text-center bg-gray-50 p-4 rounded-lg shadow-md">
+                        <img class="w-24 h-24 rounded-full object-cover mx-auto mb-3" src="Team/yihui.jpg">
+                        <h4 class="text-lg font-semibold text-gray-900">Yihui Liu</h4>
+                        <p class="text-blue-600 text-sm">PhD candidate</p>
+                        <p class="text-xs text-gray-500 mt-1">Gut Microbiome-helminth interactions</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="publications" class="py-20 sm:py-28 bg-white">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="section-header">Recent Publications (2024 - 2025)</h2>
+
+                <div class="space-y-8 max-w-4xl mx-auto">
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Bile acid synthesis dysregulation in liver diseases promotes ectopic expansion of oral streptococci in the intestine
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Wang, Yugui, Mu, Wenjie, Guan, Jian, Ma, Pingping, Li, Yaqi, Zhang, Ying, Zhu, Wenjun, Zhou, Yu, Zou, Yang, Zeng, Tongxu, and others.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Cell Reports* | 2025
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            *Blastocystis* load mediates the gut microbiome associations with within-host diversity of *Blastocystis* in non-human primates
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Ma, Pingping, Mu, Wenjie, Wang, Yugui, Liu, Yihui, Zou, Yang, Lu, Zhilong, Pang, Shifu, Pan, Hong, Zhang, Long, Chen, Lixian, and others.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *ISME communications* | 2025
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Rapid visual detection of *Moniezia* spp. in sheep feces via Recombinase Polymerase Amplification-Lateral Flow Dipstick (RPA-LFD) assay
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Zhang, Shaohua, Zhao, Yeping, Liang, Weijia, Wang, Shuai, Cui, Xiu, Zhu, Haohan, Zhang, Yueyue, Liu, Xiaolei, Li, Huimin, Mu, Wenjie, and others.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Veterinary Parasitology* | 2025
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Effects of maternal *Echinococcus multilocularis* infection on colitis susceptibility and gut microbiota of offspring
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Liu, Yihui, Xu, Yang, Zou, Yang, Ding, Yingying, Zhang, Jiayun, Zhang, Ying, Pang, Quanhai, and Wang, Shuai.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Parasites & Vectors* | 2025
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Causal Analysis Between Gut Microbes, Aging Indicator, and Age-Related Disease, Involving the Discovery and Validation of Biomarkers
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Lu, Chunrong, Wang, Xiaojun, Chen, Xiaochun, Qin, Tao, Ye, Pengpeng, Liu, Jianqun, Wang, Shuai, and Luo, Weifei.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Aging Cell* | 2025
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Comparative proteomic analysis of subcutaneous and intraperitoneal cysts of *Echinococcus multilocularis*
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Zhang, Junmei, Cao, Shanling, Tian, Zheng, Zhang, Zhengzhe, Zhou, Yu, Wu, Yixuan, Luo, Xuenong, Wang, Shuai, and Guo, Xiaola.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Journal of Proteomics* | 2025
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Helminth reshapes host gut microbiota and immunoregulation by deploying an antimicrobial program of innate immunity
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Zou, Yang, Pu, Lixia, Guo, Aijiang, Li, Yaqi, Liu, Yihui, Wang, Yugui, Ding, Yingying, Du, Xiaowei, Guo, Xiaola, Zhang, Shaohua, and others.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Gut Microbes* | 2025
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+                    
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Antimicrobial peptides from the gut microbiome of the centenarians: diversification of biosynthesis and youthful development of resistance genes
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Lu, Chunrong, Wang, Xiaojun, Ye, Pengpeng, Lu, Zhilong, Ma, Jie, Luo, Weifei, Wang, Shuai, and Chen, Xiaochun.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences* | 2024
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Taeniasis impacts human gut microbiome composition and function
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Mu, Wenjie, Ma, Pingping, Wang, Yugui, Li, Yaqi, Ding, Yingying, Zou, Yang, Pu, Lixia, Yan, Qi, Kong, Haoyue, Guo, Xiaola, and others.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *The ISME Journal* | 2024
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            *Echinococcus multilocularis* serpin regulates macrophage polarization and reduces gut dysbiosis in colitis
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Li, Xiaolu, Liu, Yihui, Zou, Yang, Zhang, Jiayun, Wang, Yugui, Ding, Yingying, Shi, Zhiqi, Guo, Xiaola, Zhang, Shaohua, Yin, Hong, and others.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Infection and Immunity* | 2024
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            The gut mycobiome signatures in long-lived populations
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Pu, Lixia, Pang, Shifu, Mu, Wenjie, Chen, Xiaodong, Zou, Yang, Wang, Yugui, Ding, Yingying, Yan, Qi, Huang, Yu, Chen, Xiaochun, and others.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Iscience* | 2024
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                    <div class="p-6 border-b border-gray-200 hover:bg-gray-50 rounded-lg transition duration-150">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-1">
+                            Prevalence of intestinal trichomonads in captive non-human primates in China
+                        </h3>
+                        <p class="text-sm text-gray-600 italic mb-2">
+                            Ma, Ping-Ping, Zou, Yang, Mu, Wen-Jie, Zhang, Yue-Yue, Li, Ya-Qi, Liu, Zhong-Li, Zhang, Long, Chen, Li-Xian, Liu, Guo-Hua, and Wang, Shuai.
+                        </p>
+                        <p class="text-xs text-blue-700 font-medium">
+                            *Parasite* | 2024
+                            <a href="#" class="ml-4 text-sm font-semibold hover:underline text-red-600" target="_blank">DOI Link (Update Required) →</a>
+                        </p>
+                    </div>
+
+                </div>
+
+                <div class="text-center mt-12">
+                    <a href="all-publications.html" class="bg-blue-700 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-blue-800 transition duration-300">
+                        View All Publications (47 Total)
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="news" class="py-20 sm:py-28 bg-gray-50">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="section-header">Lab News & Highlights</h2>
+
+                <!-- Display a single latest news item placeholder here -->
+                <div class="bg-white p-6 rounded-xl shadow-xl max-w-2xl mx-auto border-t-4 border-green-500 mb-8">
+                    <p class="text-sm font-semibold text-green-600 mb-1">Latest Update: December 2025</p>
+                    <h3 class="text-xl font-bold text-gray-900 mb-3">
+                        [LATEST NEWS] Dr. Yang Zou Awarded NIH Early Career Grant
+                    </h3>
+                    <p class="text-gray-600">
+                        We are thrilled to announce that Postdoctoral Fellow Dr. Yang Zou has secured a major grant to study helminth immunomodulation of the gut barrier. Read more details about this exciting project!
+                    </p>
+                </div>
+
+                <!-- Link to the dedicated news file -->
+                <div class="text-center">
+                    <a href="lab-news.html" class="inline-block bg-indigo-600 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-indigo-700 transition duration-300 transform hover:scale-105">
+                        View All Lab News & Archive →
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="contact" class="py-20 sm:py-28 bg-blue-100">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                <h2 class="section-header text-blue-800">Get in Touch</h2>
+
+                <div class="max-w-3xl mx-auto bg-white p-8 rounded-xl shadow-2xl">
+                    <p class="text-lg text-gray-700 mb-6">
+                        We are actively looking for talented students and postdocs interested in **gut microbiology, host-pathogen interactions, and immune regulation**.
+                    </p>
+                    <div class="space-y-4">
+                        <p class="text-xl font-semibold text-gray-900">
+                            Dr. Shuai Wang (Principal Investigator)
+                        </p>
+                        <p class="text-lg text-gray-700">
+                            <a href="mailto:wang.s@example.edu" class="text-blue-600 hover:text-blue-800 font-medium">wslvri@163.com</a>
+                        </p>
+                        <p class="text-gray-600">
+                            Lanzhou University & LVRI, CAAS, Lanzhou, China
+                        </p>
+                    </div>
+                    <a href="mailto:wang.s@example.edu" class="mt-8 inline-block bg-green-600 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-green-700 transition duration-300 transform hover:scale-105">
+                        Inquire About Open Positions
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-2 md:grid-cols-4 gap-8">
+            <div>
+                <h4 class="text-2xl font-extrabold mb-4 text-blue-400">The Wang Lab</h4>
+                <p class="text-sm text-gray-400">Researching microbiota-host immune regulation for global health impact.</p>
+            </div>
+
+            <div>
+                <h4 class="text-xl font-bold mb-4">Quick Links</h4>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="#research" class="text-gray-400 hover:text-white transition duration-150">Our Research</a></li>
+                    <li><a href="#team" class="text-gray-400 hover:text-white transition duration-150">Meet the Team</a></li>
+                    <li><a href="#publications" class="text-gray-400 hover:text-white transition duration-150">Publications</a></li>
+                    <li><a href="#news" class="text-gray-400 hover:text-white transition duration-150">Latest News</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4 class="text-xl font-bold mb-4">Opportunities</h4>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="#contact" class="text-gray-400 hover:text-white transition duration-150">Contact Dr. Wang</a></li>
+                    <li><a href="#team" class="text-gray-400 hover:text-white transition duration-150">Team</a></li>
+                    <li><a href="all-publications.html" class="text-gray-400 hover:text-white transition duration-150">All Publications</a></li>
+                    <li><a href="#" class="text-gray-400 hover:text-white transition duration-150">Open Positions</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4 class="text-xl font-bold mb-4">Affiliation</h4>
+                <img src="https://placehold.co/150x50/3b82f6/ffffff?text=LANZHOU+UNIV+LOGO" alt="Lanzhou University Logo Placeholder" class="mb-4 rounded">
+                <p class="text-sm text-gray-400">&copy; 2024 The Wang Lab. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // JavaScript for mobile menu toggle
+        const menuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+
+        menuButton.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Close menu when a link is clicked (for smoother mobile navigation)
+        const menuLinks = mobileMenu.querySelectorAll('a');
+        menuLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
+        });
+    </script>
+</body>
+</html>

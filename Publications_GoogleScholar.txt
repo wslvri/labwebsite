@@ -1,0 +1,495 @@
+@article{ding2013immune,
+  title={Immune responses to a recombinant attenuated Salmonella typhimurium strain expressing a Taenia solium oncosphere antigen TSOL18},
+  author={Ding, Juntao and Zheng, Yadong and Wang, Ying and Dou, Yongxi and Chen, Xiaoyu and Zhu, Xueliang and Wang, Shuai and Zhang, Shaohua and Liu, Zhenyong and Hou, Junling and others},
+  journal={Comparative immunology, microbiology and infectious diseases},
+  volume={36},
+  number={1},
+  pages={17--23},
+  year={2013},
+  publisher={Pergamon}
+}
+
+@article{wang2012role,
+  title={The role of insulin C-peptide in the coevolution analyses of the insulin signaling pathway: a hint for its functions},
+  author={Wang, Shuai and Wei, Wei and Zheng, Yadong and Hou, Junling and Dou, Yongxi and Zhang, Shaohua and Luo, Xuenong and Cai, Xuepeng},
+  journal={PloS one},
+  volume={7},
+  number={12},
+  pages={e52847},
+  year={2012},
+  publisher={Public Library of Science}
+}
+
+@article{wang2015genome,
+  title={Genome-wide analysis of excretory/secretory proteins in Echinococcus multilocularis: insights into functional characteristics of the tapeworm secretome},
+  author={Wang, Shuai and Wei, Wei and Cai, Xuepeng},
+  journal={Parasites \& vectors},
+  volume={8},
+  number={1},
+  pages={666},
+  year={2015},
+  publisher={BioMed Central London}
+}
+
+@article{wang2014identification,
+  title={Identification of putative insulin-like peptides and components of insulin signaling pathways in parasitic platyhelminths by the use of genome-wide screening},
+  author={Wang, Shuai and Luo, Xuenong and Zhang, Shaohua and Yin, Cai and Dou, Yongxi and Cai, Xuepeng},
+  journal={The FEBS Journal},
+  volume={281},
+  number={3},
+  pages={877--893},
+  year={2014}
+}
+
+@article{li2013phylogenetic,
+  title={Phylogenetic analysis of two Chinese orf virus isolates based on sequences of B2L and VIR genes},
+  author={Li, Huixia and Zhu, Xueliang and Zheng, Yadong and Wang, Shuai and Liu, Zhenyong and Dou, Yongxi and Li, Hui and Cai, Xuepeng and Luo, Xuenong},
+  journal={Archives of Virology},
+  volume={158},
+  number={7},
+  pages={1477--1485},
+  year={2013},
+  publisher={Springer Vienna Vienna}
+}
+
+@article{wang2016comparative,
+  title={Comparative genomics reveals adaptive evolution of Asian tapeworm in switching to a new intermediate host},
+  author={Wang, Shuai and Wang, Sen and Luo, Yingfeng and Xiao, Lihua and Luo, Xuenong and Gao, Shenghan and Dou, Yongxi and Zhang, Huangkai and Guo, Aijiang and Meng, Qingshu and others},
+  journal={Nature communications},
+  volume={7},
+  number={1},
+  pages={12845},
+  year={2016},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{wang2015comparative,
+  title={Comparative genomic analysis of aspartic proteases in eight parasitic platyhelminths: insights into functions and evolution},
+  author={Wang, Shuai and Wei, Wei and Luo, Xuenong and Wang, Sen and Hu, Songnian and Cai, Xuepeng},
+  journal={Gene},
+  volume={559},
+  number={1},
+  pages={52--61},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{wang2013calculation,
+  title={Calculation of evolutionary correlation between individual genes and full-length genome: A method useful for choosing phylogenetic markers for molecular epidemiology},
+  author={Wang, Shuai and Luo, Xuenong and Wei, Wei and Zheng, Yadong and Dou, Yongxi and Cai, Xuepeng},
+  journal={PloS one},
+  volume={8},
+  number={12},
+  pages={e81106},
+  year={2013},
+  publisher={Public Library of Science}
+}
+
+@article{wang2014genome,
+  title={Genome-wide comparisons of phylogenetic similarities between partial genomic regions and the full-length genome in Hepatitis E virus genotyping},
+  author={Wang, Shuai and Wei, Wei and Luo, Xuenong and Cai, Xuepeng},
+  journal={PLoS One},
+  volume={9},
+  number={12},
+  pages={e115785},
+  year={2014},
+  publisher={Public Library of Science San Francisco, USA}
+}
+
+@article{wang2017gene,
+  title={Gene duplication analysis reveals no ancient whole genome duplication but extensive small-scale duplications during genome evolution and adaptation of Schistosoma mansoni},
+  author={Wang, Shuai and Zhu, Xing-quan and Cai, Xuepeng},
+  journal={Frontiers in Cellular and Infection Microbiology},
+  volume={7},
+  pages={412},
+  year={2017},
+  publisher={Frontiers Media SA}
+}
+
+@article{hou2014sequence,
+  title={Sequence analysis and molecular characterization of Wnt4 gene in metacestodes of Taenia solium},
+  author={Hou, Junling and Luo, Xuenong and Wang, Shuai and Yin, Cai and Zhang, Shaohua and Zhu, Xueliang and Dou, Yongxi and Cai, Xuepeng},
+  journal={The Korean journal of parasitology},
+  volume={52},
+  number={2},
+  pages={163},
+  year={2014}
+}
+
+@article{zhang2018molecular,
+  title={Molecular cloning and characterization of leucine aminopeptidase gene from Taenia pisiformis},
+  author={Zhang, Shaohua and Cai, Xuepeng and Luo, Xuenong and Wang, Shuai and Guo, Aijiang and Hou, Junling and Wu, Run},
+  journal={Experimental Parasitology},
+  volume={186},
+  pages={1--9},
+  year={2018},
+  publisher={Academic Press}
+}
+
+@article{li2018genome,
+  title={The genome of tapeworm Taenia multiceps sheds light on understanding parasitic mechanism and control of coenurosis disease},
+  author={Li, Wenhui and Liu, Bo and Yang, Yang and Ren, Yuwei and Wang, Shuai and Liu, Conghui and Zhang, Nianzhang and Qu, Zigang and Yang, Wanxu and Zhang, Yan and others},
+  journal={DNA research},
+  volume={25},
+  number={5},
+  pages={499--510},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+@article{wang2019infection,
+  title={Infection-induced intestinal dysbiosis is mediated by macrophage activation and nitrate production},
+  author={Wang, Shuai and El-Fahmawi, Ayah and Christian, David A and Fang, Qun and Radaelli, Enrico and Chen, Longfei and Sullivan, Megan C and Misic, Ana M and Ellringer, Jodi A and Zhu, Xing-Quan and others},
+  journal={MBio},
+  volume={10},
+  number={3},
+  pages={10--1128},
+  year={2019},
+  publisher={American Society for Microbiology 1752 N St., NW, Washington, DC}
+}
+
+@article{wang2019diet,
+  title={Diet-induced remission in chronic enteropathy is associated with altered microbial community structure and synthesis of secondary bile acids},
+  author={Wang, Shuai and Martins, Rene and Sullivan, Megan C and Friedman, Elliot S and Misic, Ana M and El-Fahmawi, Ayah and De Martinis, Elaine Cristina Pereira and O’Brien, Kevin and Chen, Ying and Bradley, Charles and others},
+  journal={Microbiome},
+  volume={7},
+  number={1},
+  pages={126},
+  year={2019},
+  publisher={BioMed Central London}
+}
+
+@article{chen2020toxoplasma,
+  title={The Toxoplasma gondii virulence factor ROP16 acts in cis and trans, and suppresses T cell responses},
+  author={Chen, Longfei and Christian, David A and Kochanowsky, Joshua A and Phan, Anthony T and Clark, Joseph T and Wang, Shuai and Berry, Corbett and Oh, Jung and Chen, Xiaoguang and Roos, David S and others},
+  journal={Journal of Experimental Medicine},
+  volume={217},
+  number={3},
+  pages={e20181757},
+  year={2020},
+  publisher={Rockefeller University Press}
+}
+
+@article{berry2020natural,
+  title={Natural infection with Giardia is associated with altered community structure of the human and canine gut microbiome},
+  author={Berry, Alexander SF and Johnson, Kaylynn and Martins, Rene and Sullivan, Megan C and Farias Amorim, Camila and Putre, Alexandra and Scott, Aiysha and Wang, Shuai and Lindsay, Brianna and Baldassano, Robert N and others},
+  journal={Msphere},
+  volume={5},
+  number={4},
+  pages={10--1128},
+  year={2020},
+  publisher={American Society for Microbiology 1752 N St., NW, Washington, DC}
+}
+
+@article{wang2017screening,
+  title={Screening of inhibitors of Taenia solium glycogen synthase Kinase-3$\beta$},
+  author={Wang, Li and Cheng, Jiagao and Wang, Shuai and Zhang, Xichen and Cai, Xuepeng},
+  journal={Rsc Advances},
+  volume={7},
+  number={68},
+  pages={43319--43326},
+  year={2017},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{liu2021transcriptome,
+  title={Transcriptome profiling of Cysticercus pisiformis provides insight into responses to host bile acids},
+  author={Liu, Zhong-li and Wang, Shuai and Cai, Xue-peng and Zeng, Qiao-ying},
+  journal={Parasitology International},
+  volume={81},
+  pages={102246},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{liu2021dipylidium,
+  title={Dipylidium caninum draft genome-a new resource for comparative genomic and genetic explorations of flatworms},
+  author={Liu, Guo-Hua and Korhonen, Pasi K and Young, Neil D and Lu, Jiang and Wang, Tao and Fu, Yi-Tian and Koehler, Anson V and Hofmann, Andreas and Chang, Bill CH and Wang, Shuai and others},
+  journal={Genomics},
+  volume={113},
+  number={3},
+  pages={1272--1280},
+  year={2021},
+  publisher={Academic Press}
+}
+
+@article{guo2021molecular,
+  title={Molecular cloning and functional characterization of a thioredoxin peroxidase gene in Echinococcus multilocularis},
+  author={Guo, Xiaola and Zhang, Junmei and Li, Rui and Li, Hong and He, Xuedong and Wang, Shuai and Wang, Zhengrong and Harandi, Majid Fasihi and Hu, Junjie and Zheng, Yadong},
+  journal={Molecular and Biochemical Parasitology},
+  volume={245},
+  pages={111408},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{wang2021genome,
+  title={The genome of the thin-necked bladder worm Taenia hydatigena reveals evolutionary strategies for helminth survival},
+  author={Wang, Shuai and Liu, Xiaolin and Liu, Zhongli and Wang, Yugui and Guo, Aijiang and Huang, Wanlong and Wang, Qianhao and Zhang, Shaohua and Zhu, Guan and Luo, Xuenong and others},
+  journal={Communications Biology},
+  volume={4},
+  number={1},
+  pages={1004},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{guo2021extracellular,
+  title={Extracellular vesicles from Fasciola gigantica induce cellular response to stress of host cells},
+  author={Guo, Aijiang and Wang, Li and Meng, Xuelian and Zhang, Shaohua and Sheng, Zhaoan and Luo, Xuenong and Huang, Weiyi and Wang, Shuai and Cai, Xuepeng},
+  journal={Experimental Parasitology},
+  volume={231},
+  pages={108173},
+  year={2021},
+  publisher={Academic Press}
+}
+
+@article{zou2022echinococcosis,
+  title={Echinococcosis Is Associated with the Increased Prevalence of Intestinal Blastocystis Infection in Tibetans and Host Susceptibility to the Blastocystis in Mice},
+  author={Zou, Yang and Wang, Yu-Gui and Liu, Zhong-Li and Guo, Ai-Jiang and Li, Xiao-Lu and Shi, Zhi-Qi and Zhu, Xing-Quan and Han, Xiu-Min and Wang, Shuai},
+  journal={Biology},
+  volume={11},
+  number={5},
+  pages={773},
+  year={2022},
+  publisher={MDPI}
+}
+
+@article{pu2022chromosome,
+  title={A chromosome-level genome assembly for the rabbit tapeworm Taenia pisiformis},
+  author={Pu, Lixia and Liu, Zhongli and Guo, Aijiang and Wu, Bin and Liu, Guo-hua and Zhang, Shaohua and Guo, Xiaola and Li, Xiaolu and Jian, Jianbo and Cai, Xuepeng and others},
+  journal={Gene},
+  volume={834},
+  pages={146650},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{liu2022hiv,
+  title={HIV protease inhibitor nelfinavir is a potent drug candidate against echinococcosis by targeting Ddi1-like protein},
+  author={Liu, Zhongli and Guo, Xiaola and Guo, Aijiang and Zhang, Shengying and Zou, Yang and Wang, Yugui and Li, Xiaolu and He, Wei and Pu, Lixia and Zhang, Shaohua and others},
+  journal={EBioMedicine},
+  volume={82},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{wang2022expansion,
+  title={Expansion of opportunistic enteric fungal pathogens and occurrence of gut inflammation in human liver echinococcosis},
+  author={Wang, Yugui and Guo, Aijiang and Liu, Zhongli and Zou, Yang and Zhu, Wenjun and Wu, Shile and Zhang, Shengying and Guo, Xiaola and Zhang, Shaohua and Pu, Lixia and others},
+  journal={Microbiology Spectrum},
+  volume={10},
+  number={5},
+  pages={e01453--22},
+  year={2022},
+  publisher={American Society for Microbiology 1752 N St., NW, Washington, DC}
+}
+
+@article{guo2022proteomic,
+  title={Proteomic profiling of serum extracellular vesicles identifies diagnostic markers for echinococcosis},
+  author={Guo, Xiaola and Wang, Shuai and Zhang, Junmei and Li, Rui and Zhang, Yong’e and Wang, Zhengrong and Kong, Qingming and Cho, William C and Ju, Xianghong and Shen, Yujuan and others},
+  journal={PLOS Neglected Tropical Diseases},
+  volume={16},
+  number={10},
+  pages={e0010814},
+  year={2022},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{zhang2022identification,
+  title={Identification and expression analysis of a new small ubiquitin-like modifier from Taenia pisiformis},
+  author={Zhang, Shaohua and Jin, Bingtian and Liang, Weijia and Guo, Aijiang and Luo, Xuenong and Pu, Lixia and Chen, Xiaoqing and Cai, Xuepeng and Wang, Shuai},
+  journal={Experimental Parasitology},
+  volume={242},
+  pages={108403},
+  year={2022},
+  publisher={Academic Press}
+}
+
+@article{pang2023longevity,
+  title={Longevity of centenarians is reflected by the gut microbiome with youth-associated signatures},
+  author={Pang, Shifu and Chen, Xiaodong and Lu, Zhilong and Meng, Lili and Huang, Yu and Yu, Xiuqi and Huang, Lianfei and Ye, Pengpeng and Chen, Xiaochun and Liang, Jian and others},
+  journal={Nature Aging},
+  volume={3},
+  number={4},
+  pages={436--449},
+  year={2023},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{wang2023interaction,
+  title={Interaction between tissue-dwelling helminth and the gut microbiota drives mucosal immunoregulation},
+  author={Wang, Yugui and Guo, Aijiang and Zou, Yang and Mu, Wenjie and Zhang, Shengying and Shi, Zhiqi and Liu, Zhongli and Cai, Xuepeng and Zhu, Xing-Quan and Wang, Shuai},
+  journal={npj Biofilms and Microbiomes},
+  volume={9},
+  number={1},
+  pages={43},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{zhang2023subtyping,
+  title={Subtyping of Nonhuman Primate-Adapted Cryptosporidium hominis in Macaca Fascicularis and Macaca mulatta in Yunnan Province, Southwestern China},
+  author={Zhang, Yue-Yue and Zou, Yang and Li, Ya-Qi and Ma, Ping-Ping and Liu, Zhong-Li and Wang, Shuai and Sun, Xiao-Lin},
+  journal={Vector-Borne and Zoonotic Diseases},
+  volume={23},
+  number={7},
+  pages={364--370},
+  year={2023},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}
+
+@article{cao2023mmu,
+  title={mmu-miRNA-342-3p promotes hepatic stellate cell activation and hepatic fibrosis induced by Echinococcus multilocularis infection via targeting Zbtb7a},
+  author={Cao, Shanling and Wang, Dexian and Wu, Yixuan and Zhang, Junmei and Pu, Lixia and Luo, Xuenong and Zhang, Xueyong and Sun, Xiaolin and Zheng, Yadong and Wang, Shuai and others},
+  journal={PLoS neglected tropical diseases},
+  volume={17},
+  number={7},
+  pages={e0011520},
+  year={2023},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{zou2023modulation,
+  title={Modulation of long noncoding RNA (lncRNA) and messenger RNA (mRNA) expression in the liver of Beagle dogs by Toxocara canis infection},
+  author={Zou, Yang and Zheng, Wen-Bin and Elsheikha, Hany M and He, Jun-Jun and Lu, Yi-Xin and Wang, Shuai and Guo, Aijiang and Zhu, Xing-Quan},
+  journal={Parasites \& Vectors},
+  volume={16},
+  number={1},
+  pages={114},
+  year={2023},
+  publisher={BioMed Central London}
+}
+
+@article{mu2023subgenomic,
+  title={Subgenomic stability of progenitor genomes during repeated allotetraploid origins of the same grass Brachypodium hybridum},
+  author={Mu, Wenjie and Li, Kexin and Yang, Yongzhi and Breiman, Adina and Yang, Jiao and Wu, Ying and Zhu, Mingjia and Wang, Shuai and Catalan, Pilar and Nevo, Eviatar and others},
+  journal={Molecular Biology and Evolution},
+  volume={40},
+  number={12},
+  pages={msad259},
+  year={2023},
+  publisher={Oxford University Press US}
+}
+
+@article{ma2024prevalence,
+  title={Prevalence of intestinal trichomonads in captive non-human primates in China},
+  author={Ma, Ping-Ping and Zou, Yang and Mu, Wen-Jie and Zhang, Yue-Yue and Li, Ya-Qi and Liu, Zhong-Li and Zhang, Long and Chen, Li-Xian and Liu, Guo-Hua and Wang, Shuai},
+  journal={Parasite},
+  volume={31},
+  pages={19},
+  year={2024}
+}
+
+@article{pu2024gut,
+  title={The gut mycobiome signatures in long-lived populations},
+  author={Pu, Lixia and Pang, Shifu and Mu, Wenjie and Chen, Xiaodong and Zou, Yang and Wang, Yugui and Ding, Yingying and Yan, Qi and Huang, Yu and Chen, Xiaochun and others},
+  journal={Iscience},
+  volume={27},
+  number={8},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{li2024echinococcus,
+  title={Echinococcus multilocularis serpin regulates macrophage polarization and reduces gut dysbiosis in colitis},
+  author={Li, Xiaolu and Liu, Yihui and Zou, Yang and Zhang, Jiayun and Wang, Yugui and Ding, Yingying and Shi, Zhiqi and Guo, Xiaola and Zhang, Shaohua and Yin, Hong and others},
+  journal={Infection and Immunity},
+  volume={92},
+  number={8},
+  pages={e00232--24},
+  year={2024},
+  publisher={American Society for Microbiology 1752 N St., NW, Washington, DC}
+}
+
+@article{mu2024taeniasis,
+  title={Taeniasis impacts human gut microbiome composition and function},
+  author={Mu, Wenjie and Ma, Pingping and Wang, Yugui and Li, Yaqi and Ding, Yingying and Zou, Yang and Pu, Lixia and Yan, Qi and Kong, Haoyue and Guo, Xiaola and others},
+  journal={The ISME Journal},
+  volume={18},
+  number={1},
+  pages={wrae213},
+  year={2024},
+  publisher={Oxford University Press}
+}
+
+@article{lu2024antimicrobial,
+  title={Antimicrobial peptides from the gut microbiome of the centenarians: diversification of biosynthesis and youthful development of resistance genes},
+  author={Lu, Chunrong and Wang, Xiaojun and Ye, Pengpeng and Lu, Zhilong and Ma, Jie and Luo, Weifei and Wang, Shuai and Chen, Xiaochun},
+  journal={The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences},
+  volume={79},
+  number={11},
+  pages={glae218},
+  year={2024},
+  publisher={Oxford University Press US}
+}
+
+@article{zou2025helminth,
+  title={Helminth reshapes host gut microbiota and immunoregulation by deploying an antimicrobial program of innate immunity},
+  author={Zou, Yang and Pu, Lixia and Guo, Aijiang and Li, Yaqi and Liu, Yihui and Wang, Yugui and Ding, Yingying and Du, Xiaowei and Guo, Xiaola and Zhang, Shaohua and others},
+  journal={Gut Microbes},
+  volume={17},
+  number={1},
+  pages={2496447},
+  year={2025},
+  publisher={Taylor \& Francis}
+}
+
+@article{zhang2025comparative,
+  title={Comparative proteomic analysis of subcutaneous and intraperitoneal cysts of Echinococcus multilocularis},
+  author={Zhang, Junmei and Cao, Shanling and Tian, Zheng and Zhang, Zhengzhe and Zhou, Yu and Wu, Yixuan and Luo, Xuenong and Wang, Shuai and Guo, Xiaola},
+  journal={Journal of Proteomics},
+  pages={105505},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{lu2025causal,
+  title={Causal Analysis Between Gut Microbes, Aging Indicator, and Age-Related Disease, Involving the Discovery and Validation of Biomarkers},
+  author={Lu, Chunrong and Wang, Xiaojun and Chen, Xiaochun and Qin, Tao and Ye, Pengpeng and Liu, Jianqun and Wang, Shuai and Luo, Weifei},
+  journal={Aging Cell},
+  pages={e70057},
+  year={2025},
+  publisher={Wiley Online Library}
+}
+
+@article{liu2025effects,
+  title={Effects of maternal Echinococcus multilocularis infection on colitis susceptibility and gut microbiota of offspring},
+  author={Liu, Yihui and Xu, Yang and Zou, Yang and Ding, Yingying and Zhang, Jiayun and Zhang, Ying and Pang, Quanhai and Wang, Shuai},
+  journal={Parasites \& Vectors},
+  volume={18},
+  number={1},
+  pages={1--12},
+  year={2025},
+  publisher={BioMed Central}
+}
+
+@article{zhang2025rapid,
+  title={Rapid visual detection of Moniezia spp. in sheep feces via Recombinase Polymerase Amplification-Lateral Flow Dipstick (RPA-LFD) assay},
+  author={Zhang, Shaohua and Zhao, Yeping and Liang, Weijia and Wang, Shuai and Cui, Xiu and Zhu, Haohan and Zhang, Yueyue and Liu, Xiaolei and Li, Huimin and Mu, Wenjie and others},
+  journal={Veterinary Parasitology},
+  pages={110582},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{ma2025blastocystis,
+  title={Blastocystis load mediates the gut microbiome associations with within-host diversity of Blastocystis in non-human primates},
+  author={Ma, Pingping and Mu, Wenjie and Wang, Yugui and Liu, Yihui and Zou, Yang and Lu, Zhilong and Pang, Shifu and Pan, Hong and Zhang, Long and Chen, Lixian and others},
+  journal={ISME communications},
+  volume={5},
+  number={1},
+  pages={ycaf170},
+  year={2025},
+  publisher={Oxford University Press}
+}
+
+@article{wang2025bile,
+  title={Bile acid synthesis dysregulation in liver diseases promotes ectopic expansion of oral streptococci in the intestine},
+  author={Wang, Yugui and Mu, Wenjie and Guan, Jian and Ma, Pingping and Li, Yaqi and Zhang, Ying and Zhu, Wenjun and Zhou, Yu and Zou, Yang and Zeng, Tongxu and others},
+  journal={Cell Reports},
+  volume={44},
+  number={10},
+  year={2025},
+  publisher={Elsevier}
+}
